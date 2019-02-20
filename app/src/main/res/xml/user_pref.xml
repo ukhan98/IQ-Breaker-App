@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Options">
+
+
+        <CheckBoxPreference
+            android:key="pref_sync"
+            android:defaultValue="false"
+            android:title="Increase the Difficulty "
+            android:summary="From Average to Hard"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Muhammad_Khan_project</string>
+    <string name="title_activity_facts">FactsActivity</string>
+    <string name="title_activity_facts_adapter">FactsAdapter</string>
+    <string name="theme_changed">Theme Changed</string>
+    <string name="notifications_allowed">Notifications Allowed</string>
+    <string name="cannot_be_empty">Cannot be empty</string>
+    <string name="wrong_login_details">Wrong login details!</string>
+    <string name="correct">Correct!</string>
+    <string name="wrong">Wrong!</string>
+    <string name="sucessfully_registered">You have successfully Registered!</string>
+
+    <string-array name="facts">
+        <item>Play Chess</item>
+        <item>Do sprints</item>
+        <item>Take creatine</item>
+        <item>Start meditating</item>
+        <item>Get enough sleep</item>
+        <item>Learn a new language</item>
+        <item>Take up the guitar</item>
+        <item>Seek new experiences</item>
+        <item>Replace Machines with Mind</item>
+        <item>Meditation, Visualisation and Focused breathing</item>
+    </string-array>
+
+    <string-array name="explanation">
+        <item>Theres a reason chess has been played for centuries, and by royalty. An intricate and complex game, it develops your problem-solving skills, improves your concentration, and stimulates both sides of the brain, which helps strengthen your corpus callosum.</item>
+        <item>The neuroscience is clear: aerobic exercise is extremely good for your brain. In fact, working out raises your IQ far more than playing an online brain game. Plus, a Swedish study proved that cardiovascular fitness can actually raise your verbal intelligence by 50%. Said Maria Aberg, who led the study, "Increased cardiovascular fitness was associated with better cognitive scores. In contrast, muscular strength was only weakly associated with intelligence."</item>
+        <item>Research out of the University of Sydney showed that if you take 5g of creatine daily, you can lift your IQ by a full 15 points over a six-week period. Said study leader Caroline Rae, "Creatine gave a significant boost to brain power." Why? In part because it lifts the energy levels available for computation in your brain.</item>
+        <item>Countless studies find that meditating for as little as 20 minutes a day not only boosts your mood and lowers your stress levels, but also improves efficiency when it comes to deep cognitive processing. This is core to fluid intelligence, and part of what helps you become truly innovative.</item>
+        <item>According to science out of Loughborough University's Sleep Research Centre, every hour less than the recommended eight hours of sleep a night can knock off a full point from your IQ.</item>
+        <item>According to neuroscience, learning a foreign language makes your brain grow. Because you're navigating a new set of complex rules (such as grammar different from your native tongue), it forces cortical thickening and increases in the volume of your hippocampus. In plain language, that means you're causing the language centers in the brain to expand, which eventually helps with other language tasks like negotiating, reading, and problem-solving.</item>
+        <item>A study out of the University of Zurich showed that becoming proficient in a musical instrument can raise the IQ of both adults and children. We're not talking about insignificant gains, either: the average IQ score in the United States is 98. Playing music can raise your IQ by 7 points or more--you could go from 98 to 105 just from learning how to strum Free Fallin'.</item>
+        <item>No matter how much people state intelligence as a factor of genetics and hereditary, most of it also depends on the environment. Nourishing your brain with a sustainable environment is essential for a healthy development of your brain. An enriched environment where active learning is promoted is crucial for the brain to show better signs of development. Learning new skills like juggling a ball, playing chess, playing a sport or anything for that matter which you haven’t done before significantly boosts your brain in the process.</item>
+        <item>Given the ease of access to all kinds of machinery to us, humans reliability on them has increased more than ever. Simpler math also requires calculators these days and this particular habit won’t help the cause of improving one’s IQ levels. Doing some or most of the math calculations in your mind will train you to improve your logical abilities and improve IQ. Even better, try to get these calculations done right in your mind, without the aid of a pen, pencil, computer or calculator. There is no better mind training than doing mental math in your head.</item>
+        <item>We have recently seen at ShoutMeLoud, how meditation improves one’s lives for the better. We can take it a bit further and mention how meditation would also help you in improving your IQ scores. Meditation is all about focused breathing, but add in a factor of visualization and meditation will help you improve your IQ significantly. While you’re at it, try visualising a new possibility or an activity, activating all of your senses while doing so.</item>
+    </string-array>
+
+</resources>
